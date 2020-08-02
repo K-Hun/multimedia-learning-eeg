@@ -1,6 +1,6 @@
 # multimedia-learning-eeg
 Some python scripts for EEG signals analysis associated with my MSc thesis.
-- [Another related repository!](https://github.com/K-Hun/multimedia-learning-hci)
+- [Other related repository!](https://github.com/K-Hun/multimedia-learning-hci)
 - Data have been collected via [eWave](https://sciencebeam.com/ewave-eeg-erp-81624/).
 
 # Features
